@@ -10,7 +10,7 @@ import lombok.NoArgsConstructor;
 
 @Data
 @Introspected
-@AllArgsConstructor //dssdd
+@AllArgsConstructor
 @NoArgsConstructor
 public class WatchList {
 
